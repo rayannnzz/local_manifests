@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="rayannnzz"
-          fetch="ssh://git@github.com-k"
+          fetch="ssh://git@github.com-r"
           clone-depth="1" />
 
   <!-- X6880 -->
