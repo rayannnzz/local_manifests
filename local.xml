@@ -5,7 +5,7 @@
         clone-depth="1" />
 
   <!-- X6880 -->
-  <project path="device/infinix/X6880" name="rayannnzz/device_infinix_X6880" remote="rayannnzz" revision="sixteen" />
+  <project path="device/infinix/X6880" name="rayannnzz/device_infinix_X6880" remote="rayannnzz" revision="sixteen-nfc" />
   <project path="device/infinix/X6880-kernel" name="rayannnzz/device_infinix_X6880-kernel" remote="rayannnzz" revision="sixteen" />
   <project path="vendor/infinix/X6880" name="rayannnzz/vendor_infinix_X6880" remote="rayannnzz" revision="sixteen" />
 
